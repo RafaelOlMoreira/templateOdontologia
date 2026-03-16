@@ -25,17 +25,17 @@ function Sobre() {
                 </div>
                 <div className='grid grid-cols-3 gap-5 py-4'>
                     <div className='text-center space-y-2'>
-                        <FaRegHeart className='mx-auto size-20 p-5 text-white bg-[#7fcdcd]/70 rounded-full hover:scale-110 transition-all duration-300' />
+                        <FaRegHeart className='mx-auto h-20 w-20 py-5 text-white bg-[#7fcdcd]/70 rounded-full hover:scale-110 transition-all duration-300' />
                         <h1 className='font-semibold text-lg'>Atendimento Humanizado</h1>
                         <p className='text-md'>Cuidado personalizado e acolhedor</p>
                     </div>
                     <div className='text-center space-y-2'>
-                        <RiMicroscopeLine className='mx-auto size-20 p-5 text-white bg-[#7fcdcd]/70 rounded-full hover:scale-110 transition-all duration-300' />
+                        <RiMicroscopeLine className='mx-auto h-20 w-20 py-5 text-white bg-[#7fcdcd]/70 rounded-full hover:scale-110 transition-all duration-300' />
                         <h1 className='font-semibold text-lg'>Tecnologia de Ponta</h1>
                         <p className='text-md'>Equipamentos modernos e precisos</p>
                     </div>
                     <div className='text-center space-y-2'>
-                        <BsHouseHeart className='mx-auto size-20 p-5 text-white bg-[#7fcdcd]/70 rounded-full hover:scale-110 transition-all duration-300' />
+                        <BsHouseHeart className='mx-auto h-20 w-20 py-5 text-white bg-[#7fcdcd]/70 rounded-full hover:scale-110 transition-all duration-300' />
                         <h1 className='font-semibold text-lg'>Ambiente Acochegante</h1>
                         <p className='text-md'>Conforto e tranquilidade</p>
                     </div>
