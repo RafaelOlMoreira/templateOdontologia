@@ -9,7 +9,7 @@ function Inicio() {
         // Verde escuro:#234948
         <>
             <section className="bg-[url('/bgHome.jpg')] bg-top bg-cover h-screen">
-                <div className='absolute inset-0 bg-[#2C5F5D]/70'>
+                <div className='absolute h-screen inset-0 bg-[#2C5F5D]/70'>
                     <div className='flex flex-col items-center justify-center text-center h-full text-white px-5 space-y-8'>
                         <h1 className='text-6xl font-bold'>Seu sorriso merece cuidado e excelência</h1>
                         <p className='text-xl'>Atendimento odontológico humanizado com tecnologia de ponta. Transforme seu sorriso em um ambiente acolhedor e profissional.</p>
